@@ -1,7 +1,4 @@
-# question2.py
-# HIT137 - Final Exam 2025 S1
-# Author: [Your Name]
-#
+
 # This script processes two cat images as per the exam instructions:
 # 1. Extracts a Region of Interest (ROI) from both images
 # 2. Applies Canny edge detection to both ROIs
